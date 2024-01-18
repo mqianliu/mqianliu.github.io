@@ -8,20 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the [Computer Science Department](https://cs.vt.edu/) at [Virginia Tech](https://vt.edu/) advised by Prof. [Lifu Huang](https://wilburone.github.io/). Previously, I received my Bachelor's Degree in the [School of CSE](http://www2.scut.edu.cn/cs_en/), [South China University of Technology (SCUT)](https://www.scut.edu.cn/en/). [[Google Scholar](https://scholar.google.com/citations?user=xCR8nrwAAAAJ&hl=en)].
+I am a Ph.D. student in the [Computer Science Department](https://cs.vt.edu/) at [Virginia Tech](https://vt.edu/) advised by Prof. [Lifu Huang](https://wilburone.github.io/). Previously, I received my Bachelor's Degree in the [School of CSE](http://www2.scut.edu.cn/cs_en/), [South China University of Technology (SCUT)](https://www.scut.edu.cn/en/). I was an Applied Scientist Intern at AWS AI in Summer 2023. [[Google Scholar](https://scholar.google.com/citations?user=xCR8nrwAAAAJ&hl=en)].
 <!-- Previously, I was a research assistant at SCUT Machine Intelligence Lab (SMIL), working closely with Prof. [Mingkui Tan](https://tanmingkui.github.io/) and Prof. Qing Du. I also worked with Prof. [Xiaojun Quan](https://sites.google.com/site/xiaojunquan/homepage) at [Sun Yat-sen University](http://www.sysu.edu.cn/en/index.htm). Besides, I spent wonderful five months as an exchange student in the [Department of EECS](https://eecs.berkeley.edu/), [UC Berkeley](https://www.berkeley.edu/). --> 
 
 
 ## Research Interests
 My research interests lie in the field of **natural language processing** and its intersections with other fields. Currently, I am interested in the following topics: <br>
 <!-- 1) **Language technology for real-world applications:** continual learning and few/zero-shot learning for NLP; <br> -->
-1) **Continual learning for NLP**: acquiring new knowledge from evolving data while retaining previously learned knowledge; <br>
-2) **Interactive learning for NLP**: continually improving the machine learning system over time with demonstrations, corrections, or feedback from users; <br>
+1) **Evaluation** for NLG and multimodal interleaved generation;  <br>
+2) **Continual learning for NLP**: acquiring new knowledge from evolving data while retaining previously learned knowledge; <br>
+<!-- 2) **Interactive learning for NLP**: continually improving the machine learning system over time with demonstrations, corrections, or feedback from users; <br> -->
 3) **Multi-modal learning and reasoning**. <br> 
 <!-- 3) **Knowledge-driven information extraction:** extracting structured information from text empowered by external knowledge sources. -->
 <!-- 3) **Natural language generation:** text summarization, machine translation, and automatic evaluation for text generation. <br> -->
 
 ## News
+**\[2024.01]** One paper is accepted by EACL 2024. Congrats to my co-authors! <br>
 **\[2023.12]** One paper is accepted by AAAI 2024. Congrats to my co-authors! <br>
 **\[2023.10]** One paper is accepted by EMNLP 2023 (Oral). Congrats to my co-authors! <br>
 **\[2023.09]** Our team HokieBot won **Third Place** in scientific innovation of Amazon Alexa Prize SocialBot Grand Challenge 5 (awarded $25,000)! Check out the [news](https://www.amazon.science/alexa-prize/socialbot-grand-challenge/2022) from Amazon Science. <br>
@@ -34,7 +36,6 @@ My research interests lie in the field of **natural language processing** and it
 <!-- **\[2022.03]** Our Simbot team is featured on [VT News](https://vtx.vt.edu/articles/2022/03/virginia-tech-team-selected-as-finalist-in-alexa-prize.html)!<br>  -->
 <!-- **\[2020.07]** One paper accepted by ACM Multimedia 2020. Great thanks to all my co-authors! -->
 
-<!-- ## MISC
-I'm a huge fan of music. My favorite genres are JPOP, Jazz, and R&B.
+## MISC
+I'm a huge fan of music. My favorite genres are R&B, Jazz, and Pop.
 
- -->
