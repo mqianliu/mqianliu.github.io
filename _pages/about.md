@@ -15,10 +15,10 @@ I am a Ph.D. student in the [Computer Science Department](https://cs.vt.edu/) at
 ## Research Interests
 My research interests lie in the field of **natural language processing** and its intersections with other fields. Currently, I am interested in the following topics: <br>
 <!-- 1) **Language technology for real-world applications:** continual learning and few/zero-shot learning for NLP; <br> -->
-1) **Evaluation** for NLG and multimodal interleaved generation;  <br>
+1) **Evaluation** for large language models and vision-language models;  <br>
 2) **Continual learning for NLP**: acquiring new knowledge from evolving data while retaining previously learned knowledge; <br>
-<!-- 2) **Interactive learning for NLP**: continually improving the machine learning system over time with demonstrations, corrections, or feedback from users; <br> -->
 3) **Multi-modal learning and reasoning**. <br> 
+<!-- 2) **Interactive learning for NLP**: continually improving the machine learning system over time with demonstrations, corrections, or feedback from users; <br> -->
 <!-- 3) **Knowledge-driven information extraction:** extracting structured information from text empowered by external knowledge sources. -->
 <!-- 3) **Natural language generation:** text summarization, machine translation, and automatic evaluation for text generation. <br> -->
 
