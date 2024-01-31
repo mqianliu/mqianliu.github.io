@@ -11,6 +11,8 @@ redirect_from:
 I am a Ph.D. student in the [Computer Science Department](https://cs.vt.edu/) at [Virginia Tech](https://vt.edu/) advised by Prof. [Lifu Huang](https://wilburone.github.io/). Previously, I received my Bachelor's Degree in the [School of CSE](http://www2.scut.edu.cn/cs_en/), [South China University of Technology (SCUT)](https://www.scut.edu.cn/en/). I was an Applied Scientist Intern at AWS AI in Summer 2023. [[Google Scholar](https://scholar.google.com/citations?user=xCR8nrwAAAAJ&hl=en)].
 <!-- Previously, I was a research assistant at SCUT Machine Intelligence Lab (SMIL), working closely with Prof. [Mingkui Tan](https://tanmingkui.github.io/) and Prof. Qing Du. I also worked with Prof. [Xiaojun Quan](https://sites.google.com/site/xiaojunquan/homepage) at [Sun Yat-sen University](http://www.sysu.edu.cn/en/index.htm). Besides, I spent wonderful five months as an exchange student in the [Department of EECS](https://eecs.berkeley.edu/), [UC Berkeley](https://www.berkeley.edu/). --> 
 
+** I am actively looking for research internship positions in Summer 2024. Please reach out if you're interested!**
+
 
 ## Research Interests
 My research interests lie in the field of **natural language processing** and its intersections with other fields. Currently, I am interested in the following topics: <br>
