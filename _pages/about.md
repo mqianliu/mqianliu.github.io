@@ -11,7 +11,7 @@ redirect_from:
 I am a Ph.D. student in the [Computer Science Department](https://cs.vt.edu/) at [Virginia Tech](https://vt.edu/) advised by Prof. [Lifu Huang](https://wilburone.github.io/). Previously, I received my Bachelor's Degree in the [School of CSE](http://www2.scut.edu.cn/cs_en/), [South China University of Technology (SCUT)](https://www.scut.edu.cn/en/). I was an Applied Scientist Intern at AWS AI in Summer 2023. [[Google Scholar](https://scholar.google.com/citations?user=xCR8nrwAAAAJ&hl=en)].
 <!-- Previously, I was a research assistant at SCUT Machine Intelligence Lab (SMIL), working closely with Prof. [Mingkui Tan](https://tanmingkui.github.io/) and Prof. Qing Du. I also worked with Prof. [Xiaojun Quan](https://sites.google.com/site/xiaojunquan/homepage) at [Sun Yat-sen University](http://www.sysu.edu.cn/en/index.htm). Besides, I spent wonderful five months as an exchange student in the [Department of EECS](https://eecs.berkeley.edu/), [UC Berkeley](https://www.berkeley.edu/). --> 
 
-**I am actively looking for research internship positions in Summer 2024. Please reach out if you're interested!**
+<!--  **I am actively looking for research internship positions in Summer 2024. Please reach out if you're interested!**  --> 
 
 
 ## Research Interests
@@ -25,8 +25,9 @@ My research interests lie in the field of **natural language processing** and it
 <!-- 3) **Natural language generation:** text summarization, machine translation, and automatic evaluation for text generation. <br> -->
 
 ## News
-**\[2024.01]** One paper is accepted by EACL 2024. Congrats to my co-authors! <br>
-**\[2023.12]** One paper is accepted by AAAI 2024. Congrats to my co-authors! <br>
+**\[2024.3]** One first-authored paper on multi-aspect text evaluation is accepted by NAACL 2024 (main conference). Congrats to my collaborators! <br>
+<!-- **\[2024.01]** One paper is accepted by EACL 2024. Congrats to my co-authors! <br> -->
+**\[2023.12]** One co-first authored paper is accepted by AAAI 2024. Congrats to my co-authors! <br>
 **\[2023.10]** One paper is accepted by EMNLP 2023 (Oral). Congrats to my co-authors! <br>
 **\[2023.09]** Our team HokieBot won **Third Place** in scientific innovation of Amazon Alexa Prize SocialBot Grand Challenge 5 (awarded $25,000)! Check out the [news](https://www.amazon.science/alexa-prize/socialbot-grand-challenge/2022) from Amazon Science. <br>
 **\[2023.05]** I'm thrilled to start my Applied Scientist internship at AWS AI Lab in this summer! <br>
