@@ -26,7 +26,6 @@ My research interests lie in the field of **natural language processing** and it
 
 ## News
 **\[2024.3]** One first-authored paper on multi-aspect text evaluation is accepted by NAACL 2024 (main conference). Congrats to my collaborators! <br>
-<!-- **\[2024.01]** One paper is accepted by EACL 2024. Congrats to my co-authors! <br> -->
 **\[2023.12]** One co-first authored paper is accepted by AAAI 2024. Congrats to my co-authors! <br>
 **\[2023.10]** One paper is accepted by EMNLP 2023 (Oral). Congrats to my co-authors! <br>
 **\[2023.09]** Our team HokieBot won **Third Place** in scientific innovation of Amazon Alexa Prize SocialBot Grand Challenge 5 (awarded $25,000)! Check out the [news](https://www.amazon.science/alexa-prize/socialbot-grand-challenge/2022) from Amazon Science. <br>
