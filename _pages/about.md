@@ -27,6 +27,7 @@ My research interests lie in the field of **NLP** and **multimodal learning**. C
 <!-- 3) **Natural language generation:** text summarization, machine translation, and automatic evaluation for text generation. <br> -->
 
 ## News
+**\[2024.6]** Check out our most recent work on the evaluation of interleaved generation: [arXiv](https://arxiv.org/abs/2406.14643). <br>
 **\[2024.5]** I'm thrilled to start my research internship at Azure AI at Microsoft in this summer! <br>
 **\[2024.3]** One paper on NLG evaluation is accepted by NAACL 2024 (main conference). Congrats to my collaborators! <br>
 **\[2023.12]** One paper is accepted by AAAI 2024. Congrats to my co-authors! <br>
