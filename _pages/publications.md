@@ -13,7 +13,7 @@ See full publication list [here](https://scholar.google.com/citations?user=xCR8n
 
 * **Holistic Evaluation for Interleaved Text-and-Image Generation**<br>
   **Minqian Liu**, Zhiyang Xu, Zihao Lin, Trevor Ashby, Joy Rimchala, Jiaxin Zhang, Lifu Huang<br>
-  In *arXiv*, 2024.  \[[paper](https://arxiv.org/abs/2406.14643)]
+  In ***EMNLP** (Main)*, 2024.  \[[paper](https://arxiv.org/abs/2406.14643)]
 
 * **X-Eval: Generalizable Multi-aspect Text Evaluation via Augmented Instruction Tuning with Auxiliary Evaluation Aspects**<br>
   **Minqian Liu**, Ying Shen, Zhiyang Xu, Yixin Cao, Eunah Cho, Vaibhav Kumar, Reza Ghanadan, Lifu Huang<br>
