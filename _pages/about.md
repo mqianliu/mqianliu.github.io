@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the [Computer Science Department](https://cs.vt.edu/) at [Virginia Tech](https://vt.edu/) advised by Prof. [Lifu Huang](https://wilburone.github.io/). Previously, I received my Bachelor's Degree in the [School of CSE](http://www2.scut.edu.cn/cs_en/), [South China University of Technology (SCUT)](https://www.scut.edu.cn/en/). I was an Applied Scientist Intern at AWS AI in Summer 2023. [[Google Scholar](https://scholar.google.com/citations?user=xCR8nrwAAAAJ&hl=en)].
+I am a Ph.D. student in the [Computer Science Department](https://cs.vt.edu/) at [Virginia Tech](https://vt.edu/) advised by Prof. [Lifu Huang](https://wilburone.github.io/). Previously, I received my Bachelor's Degree in the [School of CSE](http://www2.scut.edu.cn/cs_en/), [South China University of Technology (SCUT)](https://www.scut.edu.cn/en/). I was a Research Intern at Microsoft in the Summer 2024 and an Applied Scientist Intern at AWS AI in the Summer 2023. [[Google Scholar](https://scholar.google.com/citations?user=xCR8nrwAAAAJ&hl=en)].
 
-I'm currently a research intern in Azure AI at Microsoft during Summer 2024. Look forward to meeting new and old friends in Seattle!
 <!-- Previously, I was a research assistant at SCUT Machine Intelligence Lab (SMIL), working closely with Prof. [Mingkui Tan](https://tanmingkui.github.io/) and Prof. Qing Du. I also worked with Prof. [Xiaojun Quan](https://sites.google.com/site/xiaojunquan/homepage) at [Sun Yat-sen University](http://www.sysu.edu.cn/en/index.htm). Besides, I spent wonderful five months as an exchange student in the [Department of EECS](https://eecs.berkeley.edu/), [UC Berkeley](https://www.berkeley.edu/). --> 
 
-<!--  **I am actively looking for research internship positions in Summer 2024. Please reach out if you're interested!**  --> 
+**I am actively looking for research internship positions in the Summer 2025. Please reach out if you're interested!**
 
 
 ## Research Interests
@@ -27,8 +26,9 @@ My research interests lie in the field of **NLP** and **multimodal learning**. C
 <!-- 3) **Natural language generation:** text summarization, machine translation, and automatic evaluation for text generation. <br> -->
 
 ## News
-**\[2024.6]** Check out our most recent work on the **evaluation of interleaved generation**: [arXiv](https://arxiv.org/abs/2406.14643). <br>
-**\[2024.5]** I'm thrilled to start my research internship at Azure AI at Microsoft in this summer! <br>
+**\[2024.9]** Our work InterleavedEval has been accepted to **EMNLP 2024 Main conference**! Big thanks to all my collaborators! [arXiv](https://arxiv.org/abs/2406.14643)
+<!--**\[2024.6]** Check out our most recent work on the **evaluation of interleaved generation**: . <br>-->
+**\[2024.5]** I'm thrilled to start my research internship at Microsoft this summer! <br>
 **\[2024.3]** One paper on **NLG evaluation** is accepted by **NAACL 2024 (main conference)**. Congrats to my collaborators! <br>
 **\[2023.12]** One paper is accepted by **AAAI 2024**. Congrats to my co-authors! <br>
 <!--**\[2023.10]** One paper is accepted by EMNLP 2023 (Oral). Congrats to my co-authors! <br>
