@@ -27,10 +27,10 @@ My research interests lie in the field of **NLP** and **multimodal learning**. C
 
 ## News
 **\[2025.1]** Our recent work of unified interleaved text-and-image generation has been accepted by **ICLR 2025**! Great thanks to all the collaborators! <br>
-**\[2024.9]** Our work InterleavedEval, a new benchmark and holistic evaluation metrics for interleaved text-and-image generation, has been accepted to **EMNLP 2024 Main conference**! Big thanks to all my collaborators! [arXiv](https://arxiv.org/abs/2406.14643) <br>
+**\[2024.9]** Our work InterleavedEval, a new benchmark and holistic evaluation metrics for interleaved text-and-image generation, has been accepted to **EMNLP 2024 Main conference**! Big thanks to all my collaborators! <br>
 **\[2024.5]** I'm thrilled to start my research internship at Microsoft this summer! <br>
 **\[2024.3]** One paper on **NLG evaluation** is accepted by **NAACL 2024 (main conference)**. Congrats to my collaborators! <br>
-**\[2023.12]** One paper is accepted by **AAAI 2024**. Congrats to my co-authors! <br>
+<!--**\[2023.12]** One paper is accepted by **AAAI 2024**. Congrats to my co-authors! <br>
 <!--**\[2024.6]** Check out our most recent work on the **evaluation of interleaved generation**: . <br>-->
 <!--**\[2023.10]** One paper is accepted by EMNLP 2023 (Oral). Congrats to my co-authors! <br>
 **\[2023.09]** Our team HokieBot won **Third Place** in scientific innovation of Amazon Alexa Prize SocialBot Grand Challenge 5 (awarded $25,000)! Check out the [news](https://www.amazon.science/alexa-prize/socialbot-grand-challenge/2022) from Amazon Science. <br>
@@ -42,7 +42,5 @@ My research interests lie in the field of **NLP** and **multimodal learning**. C
 <!-- **\[2022.08]** Served as a PC member at AAAI 2023. <br> -->
 <!-- **\[2022.03]** Our Simbot team is featured on [VT News](https://vtx.vt.edu/articles/2022/03/virginia-tech-team-selected-as-finalist-in-alexa-prize.html)!<br>  -->
 <!-- **\[2020.07]** One paper accepted by ACM Multimedia 2020. Great thanks to all my co-authors! -->
-<!-- 
-## MISC
-I'm a huge fan of music. My favorite genres are R&B, Jazz, and Pop. -->
+<!-- ## MISC I'm a huge fan of music. My favorite genres are R&B, Jazz, and Pop. -->
 
