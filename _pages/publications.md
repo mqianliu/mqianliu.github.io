@@ -9,6 +9,12 @@ author_profile: true
 
 See full publication list [here](https://scholar.google.com/citations?user=xCR8nrwAAAAJ&hl=en) (* indicates equal contribution)
 
+### 2025
+
+* **Modality-Specialized Synergizers for Interleaved Vision-Language Generalists**<br>
+  Zhiyang Xu\*, **Minqian Liu\***, Ying Shen, Joy Rimchala, Jiaxin Zhang, Qifan Wang, Yu Cheng, Lifu Huang<br>
+  In ***ICLR***, 2025. \[[paper](https://mqianliu.github.io/files/Vision_Language_Generalist.pdf)]
+
 ### 2024
 
 * **Holistic Evaluation for Interleaved Text-and-Image Generation**<br>
