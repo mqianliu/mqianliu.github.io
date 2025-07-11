@@ -12,8 +12,6 @@ I am a Ph.D. student in the [Computer Science Department](https://cs.vt.edu/) at
 
 <!-- Previously, I was a research assistant at SCUT Machine Intelligence Lab (SMIL), working closely with Prof. [Mingkui Tan](https://tanmingkui.github.io/) and Prof. Qing Du. I also worked with Prof. [Xiaojun Quan](https://sites.google.com/site/xiaojunquan/homepage) at [Sun Yat-sen University](http://www.sysu.edu.cn/en/index.htm). Besides, I spent wonderful five months as an exchange student in the [Department of EECS](https://eecs.berkeley.edu/), [UC Berkeley](https://www.berkeley.edu/). --> 
 
-**I am super excited to be a research intern at the Bloomberg CTO Office supervised by [Mark Dredze](http://www.dredze.com/) and [Sebastian Gehrmann](https://sebastiangehrmann.github.io/) in Summer 2025. Look forward to connecting with new and old friends in NYC!**
-
 
 ## Research Interests
 My research interests lie in the field of **NLP** and **multimodal learning**. Currently, I am interested in the following topics: <br>
