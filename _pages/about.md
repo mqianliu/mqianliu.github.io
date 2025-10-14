@@ -8,17 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the [Computer Science Department](https://cs.vt.edu/) at [Virginia Tech](https://vt.edu/) advised by Prof. [Lifu Huang](https://wilburone.github.io/). Previously, I received my Bachelor's Degree in the [School of CSE](http://www2.scut.edu.cn/cs_en/), [South China University of Technology (SCUT)](https://www.scut.edu.cn/en/). I was a Research Intern at Microsoft in the Summer 2024 and an Applied Scientist Intern at AWS AI in the Summer 2023. [[Google Scholar](https://scholar.google.com/citations?user=xCR8nrwAAAAJ&hl=en)][[CV (Updated on Jan 2025)](https://mqianliu.github.io/files/minqian_cv.pdf)].
+I am a final-year Ph.D. student in the [Computer Science Department](https://cs.vt.edu/) at [Virginia Tech](https://vt.edu/), advised by Prof. [Lifu Huang](https://wilburone.github.io/). Previously, I received my Bachelor's Degree in the [School of CSE](http://www2.scut.edu.cn/cs_en/), [South China University of Technology (SCUT)](https://www.scut.edu.cn/en/). I was a research intern at Bloomberg CTO Office in the Summer 2025, a Research Intern at Microsoft in the Summer 2024, and an Applied Scientist Intern at AWS AI in the Summer 2023. [[Google Scholar](https://scholar.google.com/citations?user=xCR8nrwAAAAJ&hl=en)][[CV (Updated on Oct 2025)](https://mqianliu.github.io/files/minqian_cv.pdf)].
 
-<!-- Previously, I was a research assistant at SCUT Machine Intelligence Lab (SMIL), working closely with Prof. [Mingkui Tan](https://tanmingkui.github.io/) and Prof. Qing Du. I also worked with Prof. [Xiaojun Quan](https://sites.google.com/site/xiaojunquan/homepage) at [Sun Yat-sen University](http://www.sysu.edu.cn/en/index.htm). Besides, I spent wonderful five months as an exchange student in the [Department of EECS](https://eecs.berkeley.edu/), [UC Berkeley](https://www.berkeley.edu/). --> 
-
+**I am currently on the job market and actively seeking full-time research scientist positions in generative AI, AI safety, and multimodal learning. Please feel free to reach out if you would like to connect or know of any opportunities!**
 
 ## Research Interests
 My research interests lie in the field of **NLP** and **multimodal learning**. Currently, I am interested in the following topics: <br>
 <!-- 1) **Language technology for real-world applications:** continual learning and few/zero-shot learning for NLP; <br> -->
 1) **Evaluation** for large language models and vision-language models;  <br>
-2) **Multi-modal learning, reasoning, and generation**; <br> 
-3) **Continual learning for NLP**: acquiring new knowledge from evolving data while retaining previously learned knowledge. <br>
+2) **AI Safety**, e.g., alignment and content moderation for large language models; <br>
+3) **Multi-modal learning, reasoning, and generation**; <br> 
+4) **Continual learning for NLP**: acquiring new knowledge from evolving data while retaining previously learned knowledge. <br>
 <!-- 2) **Interactive learning for NLP**: continually improving the machine learning system over time with demonstrations, corrections, or feedback from users; <br> -->
 <!-- 3) **Knowledge-driven information extraction:** extracting structured information from text empowered by external knowledge sources. -->
 <!-- 3) **Natural language generation:** text summarization, machine translation, and automatic evaluation for text generation. <br> -->
