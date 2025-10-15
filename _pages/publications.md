@@ -11,9 +11,22 @@ See full publication list [here](https://scholar.google.com/citations?user=xCR8n
 
 ### 2025
 
+* **Domain Generalizable AI Guardrails with Augmented Policy Training**
+  **Minqian Liu**, Ioana Baldini, David Rabinowitz, David S Rosenberg, Sebastian Gehrmann, Mark Dredze<br>
+  In submission to *ACL 2026*.
+
+* **LLM Can be a Dangerous Persuader: Empirical Study of Persuasion Safety in Large Language Models**<br>
+  **Minqian Liu**, Zhiyang Xu, Xinyi Zhang, Heajun An, Sarvech Qadir, Qi Zhang, Pamela J. Wisniewski, Jin-Hee Cho, Sang Won Lee, Ruoxi Jia, Lifu Huang<br>
+  In ***COLM***, 2025. \[[paper](https://openreview.net/forum?id=TMB9SKqit9#discussion)]
+
 * **Modality-Specialized Synergizers for Interleaved Vision-Language Generalists**<br>
   Zhiyang Xu\*, **Minqian Liu\***, Ying Shen, Joy Rimchala, Jiaxin Zhang, Qifan Wang, Yu Cheng, Lifu Huang<br>
   In ***ICLR***, 2025. \[[paper](https://mqianliu.github.io/files/Vision_Language_Generalist.pdf)]
+
+* **ReFocus: Visual Editing as a Chain of Thought for Structured Image Understanding**<br>
+  Xingyu Fu, **Minqian Liu**, Zhengyuan Yang, John Corring, Yijuan Lu, Jianwei Yang, Dan Roth, Dinei Florencio, Cha Zhang
+   In ***ICML***, 2025. \[[website](https://zeyofu.github.io/ReFocus/)]
+
 
 ### 2024
 
@@ -48,6 +61,7 @@ See full publication list [here](https://scholar.google.com/citations?user=xCR8n
 * **Dynamic Extension Nets for Few-shot Semantic Segmentation**<br> 
   Lizhao Liu\*, Junyi Cao\*, **Minqian Liu\***, Yong Guo\*, Qi Chen\*, Mingkui Tan<br>
   In ***ACM Multimedia***, 2020. \[[paper](https://dl.acm.org/doi/pdf/10.1145/3394171.3413915)] \[[code](https://github.com/lizhaoliu-Lec/DENet)]
+
 
 
 
