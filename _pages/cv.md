@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My CV in PDF format is available [here](/files/Minqian_Liu_CV.pdf).
+My CV in PDF format is available [here](https://mqianliu.github.io/files/minqian_cv.pdf).
 
 <!-- Education
 ======
@@ -59,3 +59,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
+
