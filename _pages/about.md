@@ -10,7 +10,7 @@ redirect_from:
 
 I am a final-year Ph.D. student in the [Computer Science Department](https://cs.vt.edu/) at [Virginia Tech](https://vt.edu/), advised by Prof. [Lifu Huang](https://wilburone.github.io/). Previously, I received my Bachelor's Degree in the [School of CSE](http://www2.scut.edu.cn/cs_en/), [South China University of Technology (SCUT)](https://www.scut.edu.cn/en/). I was a research intern at Bloomberg CTO Office in the Summer 2025, a Research Intern at Microsoft in the Summer 2024, and an Applied Scientist Intern at AWS AI in the Summer 2023. [[Google Scholar](https://scholar.google.com/citations?user=xCR8nrwAAAAJ&hl=en)][[CV (Updated on Oct 2025)](https://mqianliu.github.io/files/minqian_cv.pdf)].
 
-<span style="color: #e5383b;">**I am currently on the job market and actively seeking full-time research scientist positions in generative AI, AI safety, and multimodal learning. Please feel free to reach out if you would like to connect or know of any opportunities!**</span>
+<span style="color: #e5383b;">**I am currently on the job market and actively seeking full-time research scientist positions in large language models, multimodal learning, and AI safety. Please reach out if you would like to connect!**</span>
 
 ## Research Interests
 My research interests lie in the field of **NLP** and **multimodal learning**. Currently, I am interested in the following topics: <br>
@@ -24,6 +24,7 @@ My research interests lie in the field of **NLP** and **multimodal learning**. C
 <!-- 3) **Natural language generation:** text summarization, machine translation, and automatic evaluation for text generation. <br> -->
 
 ## News
+**\[2025.5]** Our recent work on safety assessment of LLM persuasion has been accepted by **COLM 2025**! Great thanks to all the collaborators! <br>
 **\[2025.1]** Our recent work of unified interleaved text-and-image generation has been accepted by **ICLR 2025**! Great thanks to all the collaborators! <br>
 **\[2024.9]** Our work InterleavedEval, a new benchmark and holistic evaluation metrics for interleaved text-and-image generation, has been accepted to **EMNLP 2024 Main conference**! Big thanks to all my collaborators! <br>
 **\[2024.5]** I'm thrilled to start my research internship at Microsoft this summer! <br>
