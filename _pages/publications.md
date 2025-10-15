@@ -11,7 +11,7 @@ See full publication list [here](https://scholar.google.com/citations?user=xCR8n
 
 ### 2025
 
-* **Domain Generalizable AI Guardrails with Augmented Policy Training**
+* **Domain Generalizable AI Guardrails with Augmented Policy Training**<br>
   **Minqian Liu**, Ioana Baldini, David Rabinowitz, David S Rosenberg, Sebastian Gehrmann, Mark Dredze<br>
   In submission to *ACL 2026*.
 
@@ -24,7 +24,7 @@ See full publication list [here](https://scholar.google.com/citations?user=xCR8n
   In ***ICLR***, 2025. \[[paper](https://mqianliu.github.io/files/Vision_Language_Generalist.pdf)]
 
 * **ReFocus: Visual Editing as a Chain of Thought for Structured Image Understanding**<br>
-  Xingyu Fu, **Minqian Liu**, Zhengyuan Yang, John Corring, Yijuan Lu, Jianwei Yang, Dan Roth, Dinei Florencio, Cha Zhang
+  Xingyu Fu, **Minqian Liu**, Zhengyuan Yang, John Corring, Yijuan Lu, Jianwei Yang, Dan Roth, Dinei Florencio, Cha Zhang<br>
    In ***ICML***, 2025. \[[website](https://zeyofu.github.io/ReFocus/)]
 
 
@@ -61,6 +61,7 @@ See full publication list [here](https://scholar.google.com/citations?user=xCR8n
 * **Dynamic Extension Nets for Few-shot Semantic Segmentation**<br> 
   Lizhao Liu\*, Junyi Cao\*, **Minqian Liu\***, Yong Guo\*, Qi Chen\*, Mingkui Tan<br>
   In ***ACM Multimedia***, 2020. \[[paper](https://dl.acm.org/doi/pdf/10.1145/3394171.3413915)] \[[code](https://github.com/lizhaoliu-Lec/DENet)]
+
 
 
 
