@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Ph.D. student in the [Computer Science Department](https://cs.vt.edu/) at [Virginia Tech](https://vt.edu/), advised by Prof. [Lifu Huang](https://wilburone.github.io/). Previously, I received my Bachelor's Degree in the [School of CSE](http://www2.scut.edu.cn/cs_en/), [South China University of Technology (SCUT)](https://www.scut.edu.cn/en/). I was a research intern at Bloomberg CTO Office in the Summer 2025, a Research Intern at Microsoft in the Summer 2024, and an Applied Scientist Intern at AWS AI in the Summer 2023. [[Google Scholar](https://scholar.google.com/citations?user=xCR8nrwAAAAJ&hl=en)][[CV (Updated on Oct 2025)](https://mqianliu.github.io/files/minqian_cv.pdf)].
+I am a final-year Ph.D. student in the [Computer Science Department](https://cs.vt.edu/) at [Virginia Tech](https://vt.edu/), advised by Prof. [Lifu Huang](https://wilburone.github.io/). Previously, I received my Bachelor's Degree in the [School of CSE](http://www2.scut.edu.cn/cs_en/), [South China University of Technology (SCUT)](https://www.scut.edu.cn/en/). I was a research intern at Bloomberg CTO Office in the Summer 2025, a Research Intern at Microsoft in the Summer 2024, and an Applied Scientist Intern at AWS AI in the Summer 2023. [[Google Scholar](https://scholar.google.com/citations?user=xCR8nrwAAAAJ&hl=en)][[CV (Updated on Oct 2025)](https://mqianliu.github.io/files/minqianliu_cv.pdf)].
 
 <span style="color: #e5383b;">**I am currently on the job market and actively seeking full-time research scientist positions in large language models, multimodal learning, and AI safety. Please reach out if you would like to connect!**</span>
 
